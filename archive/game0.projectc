@@ -10,9 +10,9 @@ title_as_file_name = BallFrenzy
 [display]
 width = 960
 height = 540
-high_dpi = 0
+high_dpi = 1
 samples = 0
-fullscreen = 0
+fullscreen = 1
 update_frequency = 0
 swap_interval = 1
 vsync = 1
